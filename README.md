@@ -1,3 +1,6 @@
 # week_1_test
 
-Hello World
+1. Add an image using one you found on the internet
+2. Add a hyperlink that goes to a website and contains text
+3. Add an image file to your week_1_test directory
+
